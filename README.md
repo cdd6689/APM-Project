@@ -1,6 +1,6 @@
 # Modern or Renaissance? Art classification
 
-* Our process and result are explained more in this Medium post that we published:https://medium.com/@cllin.chen/modern-or-renaissance-art-classification-3ad4f02593a3
+* Our process and result are explained more in this Medium post that we published: https://medium.com/@cllin.chen/modern-or-renaissance-art-classification-3ad4f02593a3
 
 * Data collection:
   * Kaggle dataset: https://www.kaggle.com/ikarus777/best-artworks-of-all-time
